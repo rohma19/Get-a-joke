@@ -1,5 +1,6 @@
 const dom = {
-    parent: document.getElementById('parent'),
+  btn: document.getElementById('btn'),
+  root: document.getElementById('root'),
 };
 
 export default dom;
